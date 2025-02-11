@@ -1,0 +1,9 @@
+Faker==35.2.0
+pyTelegramBotAPI==4.26.0
+python-dotenv==1.0.1
+Requests==2.32.3
+telethon
+httpx
+bs4
+uuid
+stripe
